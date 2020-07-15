@@ -1,2 +1,3 @@
-# jogo-imersao-game-dev-javascript
-Jogo desenvolvido na imersão da Alura Game Dev Javascript
+# p5.js-templates
+
+p5.js templates for ID311 Software Prototyping.
